@@ -3,7 +3,7 @@ var map;
 function initialize() {
 
   var mapProp = {
-    center:new google.maps.LatLng(-27.609959,-48.576585),
+    center:new google.maps.LatLng(-26.2909,-49.0401),
     zoom:14,
    	scrollwheel: false,
      styles: [{
